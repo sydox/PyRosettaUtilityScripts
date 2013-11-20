@@ -1,0 +1,8 @@
+print "\n... attempting to Initialize Rosetta scripts and importing tools...\nThis may take a few minutes."
+
+#from rosetta import *
+#init()
+#from toolbox import *
+
+print "\nImport of Rosetta and PyRosetta Tools complete!"
+print "Check the output above for errors\n"
